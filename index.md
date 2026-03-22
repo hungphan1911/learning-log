@@ -2,18 +2,13 @@
 layout: page
 title: About
 permalink:
-usemathjax: true
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Welcome! I'm Hung. 
 
-$O(n)$
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site serves as my personal digital garden, a place where I document my learning progress across a variety of topics. 
+You'll find notes on random topics, organized by interest rather than a strict timeline.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
+Connect with me:
+- [Personal website](https://hungphan1911.vercel.app/)
+- [My GitHub](https://github.com/hungphan1911)
